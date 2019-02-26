@@ -441,7 +441,7 @@ article {
 .accordian ul li i:before, .accordian ul li i:after {
   content: "";
   position: absolute;
-  background-color: #333;
+  background-color: #fff;
   width: 3px;
   height: 9px;
 }
